@@ -2,6 +2,7 @@
 #
 SonarQube Results:
 
+
 [![Bugs](https://sonarqube.orgbook.gov.bc.ca/api/badges/measure?key=TheOrgBook&metric=bugs&template=FLAT)](https://sonarqube.orgbook.gov.bc.ca/dashboard?id=TheOrgBook) [![Vulnerabilities](https://sonarqube.orgbook.gov.bc.ca/api/badges/measure?key=TheOrgBook&metric=vulnerabilities&template=FLAT)](https://sonarqube.orgbook.gov.bc.ca/dashboard?id=TheOrgBook) [![Code smells](https://sonarqube.orgbook.gov.bc.ca/api/badges/measure?key=TheOrgBook&metric=code_smells&template=FLAT)](https://sonarqube.orgbook.gov.bc.ca/dashboard?id=TheOrgBook) [![Coverage](https://sonarqube.orgbook.gov.bc.ca/api/badges/measure?key=TheOrgBook&metric=coverage&template=FLAT)](https://sonarqube.orgbook.gov.bc.ca/dashboard?id=TheOrgBook) [![Duplication](https://sonarqube.orgbook.gov.bc.ca/api/badges/measure?key=TheOrgBook&metric=duplicated_lines_density&template=FLAT)](https://sonarqube.orgbook.gov.bc.ca/dashboard?id=TheOrgBook) [![Lines of code](https://sonarqube.orgbook.gov.bc.ca/api/badges/measure?key=TheOrgBook&metric=lines&template=FLAT)](https://sonarqube.orgbook.gov.bc.ca/dashboard?id=TheOrgBook) 
 
 Zap Results:
