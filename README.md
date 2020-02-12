@@ -14,6 +14,7 @@ TheOrgBook is a **Credential Registry** of verifiable credentials about entities
 
 The Verifiable Organizations Network (VON) envisions the possibility of a number of public repositories of Verifiable Claims as a way of bootstrapping a trusted digital ecosystem.
 
+
 `TheOrgBook` is being developed as part of the Verifiable Organizations Network (VON). For more information on VON see https://vonx.io.  Even, better - join in with what we are doing and contribute to VON and the Indy community.
 
 ## Quick Start Guide
